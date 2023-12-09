@@ -25,9 +25,11 @@ void display(){
 			cout<<a+10<<".  Gaji : "<<g[a]<<endl;
 			cout<<"       "<<endl;
 			}
-	}else{
+	}
+	else{
 		cout<<"Data Kosong"<<endl;
 	}
+}
 }
 void add(){
 	display(); 
